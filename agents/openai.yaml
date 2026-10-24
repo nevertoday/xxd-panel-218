@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 218"
-  short_description: "Minimal Needle-Felt Picture-Book Illustration"
-  default_prompt: "Use $xxd-panel-218 to transform my photograph following the complete canonical source brief."
+  short_description: "极简绘本羊毛毡插画：把照片概括成一小幅用真实针毡做的极简绘本画"
+  default_prompt: "Use $xxd-panel-218 to turn my photo into Minimal Needle-Felt Picture-Book Illustration artwork."

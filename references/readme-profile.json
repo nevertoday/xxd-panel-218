@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 218｜Minimal Needle-Felt Picture-Book Illustration: simplifies a photo into a minimal, poetic picture-book vignette made of real needle felt — about 60–70% of the background and clutter removed, people, buildings, animals and landscapes reduced to rounded, soft felt shapes with fine short fibres, fuzzy edges and a matte surface — in a flat 2.5D arrangement covering roughly 20–25% of the area on warm white with a faint handmade-paper feel, bright clean colours lifted from the photo, soft diffuse light and one tiny gentle handwritten line. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-218 or asks for needle-felt, wool-felt or soft picture-book illustration from a photo.",
+  "short_description": "极简绘本羊毛毡插画：把照片概括成一小幅用真实针毡做的极简绘本画",
+  "zh-CN": {
+    "name": "极简绘本羊毛毡插画",
+    "tagline": "把照片概括成一小幅极简绘本画，再用柔软的手工羊毛毡做出来。",
+    "look": "照片先被概括成一幅极简的绘本小画，再做成手工羊毛毡：背景和重复物体删去六七成，人、房子、动物、山水都变成圆润柔软的毛毡形状，看得见细密的短纤维、起毛的边缘和哑光表面。插画只占约两三成，是扁平的 2.5D，只留一点地面承托，四周是带轻微手工纸感的暖白。颜色取照片里最明亮的几种并提纯，如天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉，光线柔和漫射。旁边配一句极小、温柔的手写短句。",
+    "traits": ["针毡纤维", "绘本极简", "扁平 2.5D", "鲜活治愈色", "小主体留白"],
+    "good": [
+      "简单温馨的主体：一只猫、一个孩子、一座小房子、一棵树",
+      "轮廓圆润、颜色明快的场景：海边、草地、花园、雪人",
+      "想做绘本页、儿童房装饰画或节日卡片的照片"
+    ],
+    "poor": [
+      "线条锋利、结构精密的对象：机械、高楼细部、电子产品，毛毡会让它们变圆变钝",
+      "人多物杂的大场景，删减后容易认不出",
+      "想要微缩模型、完整立体场景或写实 3D 毛毡的需求"
+    ]
+  },
+  "en": {
+    "name": "Minimal Needle-Felt Picture-Book Illustration",
+    "tagline": "Simplifies a photo into a tiny minimal picture-book scene, then makes it in soft handmade needle felt.",
+    "look": "Your photo is first simplified into a minimal picture-book scene, then made in handmade needle felt: around two thirds of the background and repeated objects are dropped, and people, houses, animals and landscapes become rounded, soft felt shapes with fine short fibres, fuzzy edges and a matte surface. The illustration fills only a fifth to a quarter of the space, laid out flat in 2.5D with just a hint of ground, on warm white with a faint handmade-paper feel. Colours are the brightest ones in the photo made cleaner, such as sky blue, lake teal, fresh green, warm yellow, coral and peach, under soft diffuse light. One tiny, gentle handwritten line sits nearby.",
+    "traits": ["Needle-felt fibre", "Minimal picture book", "Flat 2.5D", "Bright cheerful colour", "Small subject, wide space"],
+    "good": [
+      "Simple, warm subjects: a cat, a child, a small house, a tree",
+      "Scenes with rounded shapes and bright colour: a beach, a lawn, a garden, a snowman",
+      "Photos you want as a picture-book page, a nursery print or a holiday card"
+    ],
+    "poor": [
+      "Sharp, precisely built subjects such as machines, detailed façades or electronics, which felt turns soft and blunt",
+      "Wide scenes crowded with people and things, which become hard to recognise once simplified",
+      "Requests for a miniature diorama, a full 3D scene or realistic 3D felt"
+    ]
+  },
+  "ja": {
+    "name": "ミニマルな絵本風ニードルフェルト",
+    "tagline": "写真をごく簡潔な絵本の一場面にまとめ、柔らかな手作りの羊毛フェルトで仕上げます。",
+    "look": "写真をまずミニマルな絵本の一場面にまとめ、それを手作りの羊毛フェルトにします。背景や繰り返しの物は六〜七割を省き、人、家、動物、山や水辺は丸く柔らかなフェルトの形になり、細かく短い繊維、毛羽立った縁、マットな表面が見えます。イラストは画面の二〜三割ほどで、平たい2.5Dの配置に地面をわずかに残し、まわりはほのかに手漉き紙の風合いがある暖かな白です。色は写真でいちばん明るい色を澄ませた空色、湖の青緑、若草色、暖かい黄、コーラル、ピーチで、光は柔らかく拡散しています。そばにごく小さく優しい手書きの一文が添えられます。",
+    "traits": ["ニードルフェルトの繊維", "ミニマルな絵本", "平たい2.5D", "明るく癒やされる色", "小さな主役と余白"],
+    "good": [
+      "シンプルで温かな主役：猫、子ども、小さな家、一本の木",
+      "形が丸く色の明るい場面：海辺、芝生、庭、雪だるま",
+      "絵本のページ、子ども部屋の飾り絵、季節のカードにしたい写真"
+    ],
+    "poor": [
+      "鋭い線や精密な構造の対象：機械、ビルの細部、電子機器（フェルトで丸く鈍くなります）",
+      "人や物が入り組んだ広い場面（省くと何かわからなくなりがちです）",
+      "ミニチュア模型、立体的な情景、写実的な3Dフェルトを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "미니멀 그림책 양모 펠트 일러스트",
+    "tagline": "사진을 아주 간결한 그림책 한 장면으로 정리한 뒤 부드러운 수제 양모 펠트로 만듭니다.",
+    "look": "사진을 먼저 미니멀한 그림책 한 장면으로 정리하고, 이를 손으로 만든 양모 펠트로 옮깁니다. 배경과 반복되는 사물은 6~7할을 덜어내고, 사람, 집, 동물, 산과 물은 둥글고 부드러운 펠트 형태가 되어 촘촘하고 짧은 섬유, 보풀이 인 가장자리, 무광 표면이 보입니다. 일러스트는 화면의 2~3할 정도이며 납작한 2.5D 배치에 바닥만 살짝 남기고, 주변은 은은한 수제 종이 느낌의 따뜻한 흰색입니다. 색은 사진에서 가장 밝은 색을 맑게 다듬은 하늘색, 호수 청록, 연두, 따뜻한 노랑, 산호색, 복숭아색이고 빛은 부드럽게 퍼집니다. 옆에는 아주 작고 다정한 손글씨 한 줄이 들어갑니다.",
+    "traits": ["니들 펠트 섬유", "미니멀 그림책", "납작한 2.5D", "밝고 산뜻한 색", "작은 주인공과 여백"],
+    "good": [
+      "단순하고 따뜻한 주인공: 고양이, 아이, 작은 집, 나무 한 그루",
+      "형태가 둥글고 색이 밝은 장면: 바닷가, 잔디밭, 정원, 눈사람",
+      "그림책 페이지, 아이 방 액자, 계절 카드로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "날카롭고 정밀한 대상: 기계, 건물 세부, 전자 제품(펠트가 둥글고 무디게 만듭니다)",
+      "사람과 사물이 뒤엉킨 넓은 장면(덜어내면 알아보기 어려워집니다)",
+      "미니어처 모형, 완전한 입체 장면, 사실적인 3D 펠트를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رسوم كتاب مصور مبسطة من اللباد",
+    "tagline": "يبسّط الصورة إلى مشهد صغير من كتاب مصوّر ثم يصنعه من لباد الإبرة اليدوي الناعم.",
+    "look": "تُبسَّط صورتك أولاً إلى مشهد بسيط من كتاب مصوّر، ثم يُصنع من لباد الإبرة اليدوي: يُحذف نحو ثلثي الخلفية والأشياء المتكررة، ويصبح الأشخاص والبيوت والحيوانات والمناظر أشكالاً لبادية مستديرة ناعمة تظهر فيها ألياف قصيرة دقيقة وحواف زغبية وسطح غير لامع. لا يشغل الرسم إلا خُمس المساحة إلى ربعها، في ترتيب مسطّح ثنائي ونصف الأبعاد مع إيحاء بسيط بالأرض، على أبيض دافئ فيه ملمس خفيف للورق اليدوي. الألوان هي أكثر ألوان الصورة إشراقاً بعد تنقيتها، مثل أزرق السماء وفيروزي البحيرة والأخضر الطري والأصفر الدافئ والمرجاني والخوخي، تحت ضوء ناعم منتشر. وترافقه عبارة قصيرة رقيقة صغيرة جداً بخط اليد.",
+    "traits": ["ألياف لباد الإبرة", "كتاب مصوّر بسيط", "تسطيح ثنائي ونصف الأبعاد", "ألوان مشرقة مبهجة", "عنصر صغير وفراغ واسع"],
+    "good": [
+      "عناصر بسيطة دافئة: قطة، طفل، بيت صغير، شجرة",
+      "مشاهد مستديرة الأشكال زاهية الألوان: شاطئ، مرج، حديقة، رجل ثلج",
+      "صور تريدها صفحة في كتاب مصوّر أو لوحة لغرفة طفل أو بطاقة مناسبة"
+    ],
+    "poor": [
+      "عناصر حادة دقيقة البنية مثل الآلات وتفاصيل الواجهات والأجهزة الإلكترونية، إذ يجعلها اللباد ناعمة مستديرة",
+      "مشاهد واسعة مزدحمة بالناس والأشياء يصعب التعرف عليها بعد التبسيط",
+      "طلب مجسّم مصغّر أو مشهد ثلاثي الأبعاد كامل أو لباد واقعي ثلاثي الأبعاد"
+    ]
+  }
+}

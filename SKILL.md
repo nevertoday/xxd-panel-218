@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-218
-description: "Create Panel 218 raster artwork: Minimal Needle-Felt Picture-Book Illustration. Use when the user invokes xxd-panel-218 or requests this specific visual language."
+description: "XXD Panel 218｜Minimal Needle-Felt Picture-Book Illustration: simplifies a photo into a minimal, poetic picture-book vignette made of real needle felt — about 60–70% of the background and clutter removed, people, buildings, animals and landscapes reduced to rounded, soft felt shapes with fine short fibres, fuzzy edges and a matte surface — in a flat 2.5D arrangement covering roughly 20–25% of the area on warm white with a faint handmade-paper feel, bright clean colours lifted from the photo, soft diffuse light and one tiny gentle handwritten line. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-218 or asks for needle-felt, wool-felt or soft picture-book illustration from a photo."
 ---
 
 # XXD Panel 218
